@@ -14,17 +14,17 @@ Our team, **Bamboo Warriors** — made up of:
 (*All in our 2nd semester!*) — took part in the challenge to build a solution that makes ULAB a "Smart Campus."
 
 The hackathon timeline was intense:
-- ⏱️ **8:15 AM – Hackathon started**
-- 🧠 **8:15–10:00 AM – Brainstorming (offline, no internet)**  
+- ⏱️ **8:30 AM – Hackathon started**
+- 🧠 **8:30 AM –10:00 AM – Brainstorming (offline, no internet)**  
    - We built a poster identifying our problem and proposed solution  
-- 💻 **10:00–12:00 PM – AI-powered prototyping using Loveable.ai + ChatGPT**  
+- 💻 **10:00 AM –12:00 PM – AI-powered prototyping using Loveable.ai + ChatGPT**  
    - We designed the app, crafted prompts, and built a prototype with no actual code
 
 ## 🧠 Poster Submission
 
 We created a poster to explain our problem statement and proposed solution:
 
-👉 [View the Poster](https://github.com/Hurairiam/Our-First-Hackathon/blob/main/assets/Lack%20of%20Connectivity%20Poster.jpg?raw=true)
+👉 [View the Poster](https://raw.githubusercontent.com/Hurairiam/Our-First-Hackathon/refs/heads/main/assets/Lack%20of%20Connectivity%20Poster.jpg)
 
 ---
 
@@ -86,3 +86,4 @@ Despite not winning, this was a powerful first experience in ideation, collabora
 - Clear UX and structured thinking impress judges just as much as raw code
 
 ---
+
