@@ -1,5 +1,5 @@
 # 🚀 Sync4U – Smart Campus Connectivity App  
-*A Hackathon Project @ CSE Fest 2025, ULAB*
+*A Hackathon Project, CSE Fest 2025, ULAB*
 
 ## 📅 Event Background
 
